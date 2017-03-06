@@ -1,0 +1,19 @@
+h1{
+	color: blue;
+	font-size: 300%;
+	text-align: center;
+}
+img{
+    height: 16%;
+    width: 16%;
+	padding: 1px;
+	margin-left: 580px;
+}
+h2{
+	background-color: purple;
+	margin-left: 30px;
+	font-style: italic;
+}
+nav.li{
+	color: red;
+}
